@@ -28,7 +28,7 @@ nav ul {
 nav ul li {
         font-size: 24px;
         padding: 5px 10px;
-}
+    }
 
 nav ul li a {
     color: black;
@@ -43,13 +43,16 @@ nav ul li a {
 
 .card {
     position: relative;
-    width: 100%;
+    width: 80%;
     height: 100%;
+    padding-left: 10px;
+    border-left: 3px solid black
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 36px;
     color:black;
+    width: 20%;
 }
 
 p {
